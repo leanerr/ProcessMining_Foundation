@@ -1,0 +1,6 @@
+{'attributes': {'concept:name': '2'}
+{'concept:name': 'register request', 'time:timestamp': datetime.datetime(2010, 12, 30, 11, 32, tzinfo=datetime.timezone(datetime.timedelta(seconds=3600))), 'cost:total': 50, 'org:resource': 'Mike', '@@index': 9}
+{'concept:name': 'check ticket', 'time:timestamp': datetime.datetime(2010, 12, 30, 12, 12, tzinfo=datetime.timezone(datetime.timedelta(seconds=3600))), 'cost:total': 100, 'org:resource': 'Mike', '@@index': 10}
+{'concept:name': 'examine casually', 'time:timestamp': datetime.datetime(2010, 12, 30, 14, 16, tzinfo=datetime.timezone(datetime.timedelta(seconds=3600))), 'cost:total': 400, 'org:resource': 'Sean', '@@index': 11}
+{'concept:name': 'decide', 'time:timestamp': datetime.datetime(2011, 1, 5, 11, 22, tzinfo=datetime.timezone(datetime.timedelta(seconds=3600))), 'cost:total': 200, 'org:resource': 'Sara', '@@index': 12}
+{'concept:name': 'pay compensation', 'time:timestamp': datetime.datetime(2011, 1, 8, 12, 5, tzinfo=datetime.timezone(datetime.timedelta(seconds=3600))), 'cost:total': 200, 'org:resource': 'Ellen', '@@index': 13}

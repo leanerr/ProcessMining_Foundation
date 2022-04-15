@@ -1,0 +1,1 @@
+{'check ticket': 2, 'decide': 2, 'examine casually': 1, 'reinitiate request': 1}-
