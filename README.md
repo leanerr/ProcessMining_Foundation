@@ -1,6 +1,6 @@
 ﻿![](Aspose.Words.536437b3-d701-4b56-9ee3-8772743ea048.001.png)
 
-**Process Mining with PM4Py**
+## Process Mining with PM4PY
 
 ![](Aspose.Words.536437b3-d701-4b56-9ee3-8772743ea048.002.jpeg)
 
